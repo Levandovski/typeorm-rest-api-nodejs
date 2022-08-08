@@ -1,9 +1,9 @@
-#Typeorm Study Project
+##Typeorm Study Project
 
-#To run the project
+##To run the project
 
 npm install
 
-#Database
+##Database
 
 Create the database in mysql, following the definition of db.ts
