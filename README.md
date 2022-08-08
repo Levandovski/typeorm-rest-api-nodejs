@@ -4,6 +4,6 @@
 
 npm install
 
-#DataBase
+#Database
 
 Create the database in mysql, following the definition of db.ts
