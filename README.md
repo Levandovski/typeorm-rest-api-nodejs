@@ -1,4 +1,4 @@
-# Typeorm Study Project
+## Typeorm Study Project
 
 # To run the project
 
